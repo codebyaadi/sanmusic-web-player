@@ -31,6 +31,8 @@ To get started with SanMusic Web Player, you can follow these steps:
 
 Contributions to SanMusic Web Player are welcome and encouraged! If you find a bug, have a feature request, or would like to contribute code, please open an issue or pull request on the project's GitHub repository.
 
+<!--
 ## License
 
 SanMusic Web Player is released under the [MIT License](https://opensource.org/licenses/MIT).
+-->
